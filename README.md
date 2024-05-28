@@ -1,1 +1,1 @@
-跟着《crafting interpreters》实现的一个java实现的lox语言编译器
+* 这是一个根据《Crafting Interpreters》书中的指导，使用Java实现的Lox语言编译器。
